@@ -49,11 +49,8 @@
 
 ---
 
-## 🎵 **Now Playing**
-🎧 *Coding with good music* 🎶  
-[![Spotify](https://novatorem-nureen-fatini.vercel.app/api/spotify)]([https://open.spotify.com/](https://open.spotify.com/user/jjum50wtle57onwll491ar6mn))  
 
----
+
 
 ## 😄 **Fun Facts**
 ✅ I love **designing, coding, and creating digital magic**  
