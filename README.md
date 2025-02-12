@@ -1,26 +1,70 @@
-
-<h1 align="center">Hi, I'm Nureen Fatini! 👋</h1>
+<h1 align="center">Hey there! I'm <span style="color:#FFA500">Nureen Fatini</span> 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>Here are my E-portfolio, I conclude my assignments and project of subject Technology Information System here</br>
-    <br>Feel free to browse!</br>
-    <br>https://nureen-fatini.github.io/Fatini.github.io/</br>
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
-🌟 **About Me:**  
-<br>🔹UTM student in course Bioinformatics </br>
-<br>🔹 Passionate about coding and video editing </br>
-<br>🔹 Love building awesome projects  </br>
+<p align="center">
+  🚀 Welcome to my E-Portfolio!  
+  <br>Here, I showcase my assignments and projects for my Technology Information System course. </br> 
+  <br>Feel free to explore! 😊</br>  
+  🔗 <a href="https://nureen-fatini.github.io/Fatini.github.io/" target="_blank"><b>Visit My E-Portfolio</b></a>  
+</p>
 
-📫 **Connect with Me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Nureen-Fatini)  
+---
 
-💻 **Tech Stack:**  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+## 🌟 **About Me**  
+🎓 **UTM Student** | 📚 **Bioinformatics Enthusiast** | 🎥 **Video Editing Lover**  
+💡 **Passionate about coding, technology, and innovation**  
+🔥 **Love solving problems and building new projects!**  
 
-📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nureen-Fatini&show_icons=true&theme=radical)  
+---
+
+## 🌎 **Let's Connect!**
+<p align="center">
+  <a href="https://github.com/Nureen-Fatini">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:nureenfatini@egraduate.utm.my">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 **Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nureen-Fatini&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nureen-Fatini&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🎵 **Now Playing**
+🎧 *Coding with good music* 🎶  
+[![Spotify](https://novatorem-nureen-fatini.vercel.app/api/spotify)]([https://open.spotify.com/](https://open.spotify.com/user/jjum50wtle57onwll491ar6mn))  
+
+---
+
+## 😄 **Fun Facts**
+✅ I love **designing, coding, and creating digital magic**  
+✅ My hobbies include **gaming, videography, typography, and exploring new tech**  
+✅ I'm always up for **learning new skills**  
+
+---
+
+🚀 **Let's build something amazing together!**  
+💬 **Feel free to reach out and connect!** 🎉  
+
+---
+
+This version adds **more structure, color, and interactivity** while making your GitHub profile look **engaging and professional**! 🎨🔥 Let me know if you want further tweaks! 😊🚀
